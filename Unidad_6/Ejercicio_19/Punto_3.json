@@ -1,0 +1,14 @@
+{
+  "Nombre": "Camilo",
+  "Apellido": "Perez",
+  "Edad": 23,
+  "Hobbies": ["Programar", "XBOX", "Futbol"],
+  "Contacto": {
+    "correo": "camilo@correo.com",
+    "Telefono": {
+      "Celular": 311111111,
+      "Fijo": 3112222
+    },
+    "direccion": "Calle 123 # 45 - 67"
+  }
+}
