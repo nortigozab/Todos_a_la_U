@@ -1,0 +1,84 @@
+{
+  "productos": [
+    {
+      "nombre": "Arroz",
+      "marca": "Diana",
+      "valor": {
+        "compra": 1500,
+        "venta": 2500
+      },
+      "tipo": "alimento",
+      "inventario": 100
+    },
+    {
+      "nombre": "Jabon",
+      "marca": "Ariel",
+      "valor": {
+        "compra": 2000,
+        "venta": 3500
+      },
+      "tipo": "aseo",
+      "inventario": 50
+    },
+    {
+      "nombre": "Detergente",
+      "marca": "Suavitel",
+      "valor": {
+        "compra": 2500,
+        "venta": 4000
+      },
+      "tipo": "aseo",
+      "inventario": 80
+    },
+    {
+      "nombre": "Gaseosa",
+      "marca": "Coca-Cola",
+      "valor": {
+        "compra": 1500,
+        "venta": 3000
+      },
+      "tipo": "bebida",
+      "inventario": 120
+    },
+    {
+      "nombre": "Aceite",
+      "marca": "Gourmet",
+      "valor": {
+        "compra": 3000,
+        "venta": 4500
+      },
+      "tipo": "alimento",
+      "inventario": 70
+    },
+    {
+      "nombre": "Galletas",
+      "marca": "Festival",
+      "valor": {
+        "compra": 1000,
+        "venta": 2000
+      },
+      "tipo": "alimento",
+      "inventario": 200
+    },
+    {
+      "nombre": "Cerveza",
+      "marca": "Poker",
+      "valor": {
+        "compra": 2000,
+        "venta": 3500
+      },
+      "tipo": "bebida",
+      "inventario": 40
+    },
+    {
+      "nombre": "Crema dental",
+      "marca": "Colgate",
+      "valor": {
+        "compra": 1200,
+        "venta": 2500
+      },
+      "tipo": "aseo",
+      "inventario": 90
+    }
+  ]
+}
