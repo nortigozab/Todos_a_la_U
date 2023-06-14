@@ -30,3 +30,4 @@ Este es un repositorio para el manejo de los diferentes ejercicios presentados, 
 | [Ejercicio 22_23](./Unidad_6/Ejercicio_22_23)                             |                                                                           |     |
 | [Ejercicio 24](./Unidad_6/Ejercicio_24)                                   |                                                                           |     |
 | [Ejercicio 25](./Unidad_6/Ejercicio_25)                                   |                                                                           |     |
+| [Ejercicio 26](./Unidad_6/Ejercicio_26)                                   |                                                                           |     |
