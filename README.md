@@ -31,3 +31,4 @@ Este es un repositorio para el manejo de los diferentes ejercicios presentados, 
 | [Ejercicio 24](./Unidad_6/Ejercicio_24)                                   |                                                                           |     |
 | [Ejercicio 25](./Unidad_6/Ejercicio_25)                                   |                                                                           |     |
 | [Ejercicio 26](./Unidad_6/Ejercicio_26)                                   |                                                                           |     |
+| [Ejercicio 27](./Unidad_6/Ejercicio_27)                                   |                                                                           |     |
